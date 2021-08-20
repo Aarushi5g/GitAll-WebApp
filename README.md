@@ -2,6 +2,8 @@
 
 😃😄 Get All from GitAll: A web application using the Github API in Reactjs for personalized GitHub Resume, accessing any users recent Timeline, and comparing Github profiles side-by-side. ✨👨‍💻👩‍
 
+[GitAll Hosted Project](https://gitall.netlify.app) 🥳
+
 ![gitsetgo](https://socialify.git.ci/aarushi5g/gitall-webapp/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
 <br/>
 
