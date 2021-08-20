@@ -1,0 +1,47 @@
+/*
+GitAll React Web Application
+Developed by Aarushi Gupta: https://github.com/Aarushi5g
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 150% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+.header {
+    background-color: #161b22;
+    color: white;
+    font-size: 17px;
+    padding-bottom: 4px;
+    z-index: 1000;
+}
+
+@media screen and (max-width: 600px) {               
+  .content-to-hide {
+      display: none;
+  }
+}
+
+@font-face {
+  font-family: LogoFont;
+  src: url(NorthwestBold-M8xx.otf);
+}
+
+@font-face {
+font-family: TaglineFont;
+src: url(Poppins-ExtraLight.ttf);
+}
+
+/*
+GitAll React Web Application
+Developed by Aarushi Gupta: https://github.com/Aarushi5g
+*/
